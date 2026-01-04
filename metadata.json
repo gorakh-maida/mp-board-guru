@@ -1,0 +1,8 @@
+{
+  "name": " - AI Education Assistant",
+  "description": "A specialized AI tutor for Madhya Pradesh Board Class 10 and 12 students, providing real-time syllabus updates, exam notes, and personalized study guides.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
